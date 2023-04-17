@@ -1,0 +1,16 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "Pruebas unitarias con Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Cristhian Mejias Serrano",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
